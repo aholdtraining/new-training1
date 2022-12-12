@@ -1,0 +1,9 @@
+{
+	"name": "ngadftrn2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a72a3b60-31eb-494a-a25c-19525cdd642b",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}
